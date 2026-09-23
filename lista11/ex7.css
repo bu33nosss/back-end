@@ -1,0 +1,29 @@
+.meio{
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: black;
+    margin-left: 400px;
+    margin-right: 400px;
+    border-radius: 20px;
+    color: white;
+}
+
+.spotify{
+    display:inline;
+    font-size: 36px;
+}
+
+.login{
+    font-size: 24px;
+    font-weight:lighter;
+    margin-bottom:0px;
+}
+
+.goback{
+    font-size: 12px;
+    font-weight:lighter;
+}
+
+.nasc{
+    font-size:12px;
+}
